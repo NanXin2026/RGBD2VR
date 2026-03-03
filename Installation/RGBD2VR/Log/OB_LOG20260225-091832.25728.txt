@@ -1,0 +1,20 @@
+Log file created at: 2026/02/25 09:18:32
+Running on machine: DESKTOP-K2UUHFK
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+[I20260225 09:18:32.201200 25380 DeviceManager.cpp:52] DeviceManager init ...
+[I20260225 09:18:32.203193 25380 MfPal.cpp:94] WmfPal init ...
+[I20260225 09:18:32.221342 25380 MfPal.cpp:100] WmfPal created!
+[I20260225 09:18:32.232779 25380 EnumeratorLibusb.cpp:326] queryDevicesInfo done!
+[I20260225 09:18:32.232779 25380 DeviceManager.cpp:250] Current usb device port list::
+[I20260225 09:18:32.233770 25380 DeviceManager.cpp:239] No device matched!
+[I20260225 09:18:32.233770 25380 MfPal.cpp:431] Create WinEventDeviceWatcher!
+[I20260225 09:18:32.234767 25380 DeviceManager.cpp:92] DeviceManager init  done!
+[I20260225 09:18:32.234767 25380 DeviceManager.cpp:48] DeviceManager construct done
+[I20260225 09:18:32.234767 25380 Context.cpp:49] Context created!
+[W20260225 09:18:32.234767 25380 ObException.cpp:5] No device found, fail to create pipeline!
+[I20260225 09:18:32.236763 25380 Context.cpp:53] Context destroying ...
+[I20260225 09:18:32.236763 25380 DeviceManager.cpp:96] DeviceManager destroy ...
+[I20260225 09:18:32.250873 25380 ContextLibusb.cpp:56] UsbContext::stopEventHandler()
+[I20260225 09:18:32.251840 25380 DeviceManager.cpp:118] DeviceManager destroy done
+[I20260225 09:18:32.251840 25380 DeviceManager.cpp:124] DeviceManager Destructors  done
