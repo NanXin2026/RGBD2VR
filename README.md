@@ -194,8 +194,6 @@ Key processing steps:
 
 # Project Background
 
-RGBD2VR is part of Orbbec's **UniXR XR content generation framework**.
-
 The system demonstrates how RGB-D cameras can generate stereoscopic XR content in real time without requiring a dual-camera stereoscopic setup.
 
 The technology has been demonstrated in multiple scenarios including:
