@@ -10,6 +10,8 @@ This project demonstrates how RGB-D sensing and computer vision can be combined 
 
 [![Demo Video](Doc_Img/Bear_CnD_1.png)](https://www.youtube.com/watch?v=OR_osRkdaBU)
 Click the image above to watch the demo video.
+[![Demo Video](Doc_Img/Bear_CnD_1.png)](https://www.youtube.com/watch?v=kSHhuJfGo9U)
+Click the image above to watch the demo video.
 ---
 
 # Introduction
