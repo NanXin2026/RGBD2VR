@@ -13,6 +13,7 @@ Fig.1 RGB and Depth Image Pair.
 
 ![Demo Video](Doc_Img/SBS_V9.gif).
 FIg.2 Side-by-Side VR image.
+
 ---
 
 # Introduction
